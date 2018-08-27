@@ -2,7 +2,6 @@
 layout: default
 title: Text Analytics Assignments - Overview
 ---
-
 # Text Analytics Assignments - Overview
 
 In general, I haven not included the dataset provided to us - as this might be part of ongoing research. However, wherever possible, I have shared the public version hosted / the specific site the data was scraped from.
